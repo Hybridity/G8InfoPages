@@ -808,13 +808,15 @@ footer .col-md-2 {
 
 .legalContent ul {
   padding-left: 1.5rem;
+  list-style: circle
+
 }
 
 .legalContent ul li {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: -0.2px;
-  list-style: decimal
+  list-style: circle
 }
 
 .legalContent h1 {
